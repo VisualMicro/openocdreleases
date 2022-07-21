@@ -1,0 +1,6 @@
+﻿{
+	"name": "OpenOCD",
+	"version": "openocd-esp32-0.10.1-2021.07.21",
+	"zip": "openocd-esp32-0.10.1-2021.07.21.zip",
+	"licenseMessage": "OpenOCD - (GNU GENERAL PUBLIC LICENSE 2.0)"
+}

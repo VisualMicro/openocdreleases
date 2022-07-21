@@ -1,0 +1,5 @@
+{
+	"name": "OpenOCD-ESP32",
+	"licenseMessage": "OpenOCD - (GNU GENERAL PUBLIC LICENSE)",
+	"licenseURL": "https://github.com/espressif/openocd-esp32/blob/master/COPYING"
+}

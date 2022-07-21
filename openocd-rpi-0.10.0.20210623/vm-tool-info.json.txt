@@ -1,0 +1,6 @@
+﻿{
+	"name": "OpenOCD-RasPiPico",
+	"version": "openocd-rpi-0.10.0.20210623",
+	"zip": "openocd-rpi-0.10.0.20210623.zip",
+	"licenseMessage": "OpenOCD - (GNU GENERAL PUBLIC LICENSE)"
+}

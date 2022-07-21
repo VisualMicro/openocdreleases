@@ -1,0 +1,7 @@
+{
+	"name": "OpenOCD",
+	"version": "openocd-0.10.0",
+	"zip": "openocd-0.10.0.zip",
+	"licenseMessage": "OpenOCD - (GNU GENERAL PUBLIC LICENSE)"
+}
+
